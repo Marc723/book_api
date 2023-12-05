@@ -1,0 +1,186 @@
+{
+  "status": "ok",
+  "total": 20,
+  "books": [
+    {
+      "id": "191204742X",
+      "title": "The Official Raspberry Pi Handbook 2023",
+      "subtitle": "",
+      "authors": "David Crookes, PJ Evans, Rosie Hattersley, Phil King, Nicola King, KG Orphanides, Nik Rawlinson, Mark Vanstone",
+      "description": "Discover the true potential of Raspberry Pi with the new, official Handbook 2023. With over 200 pages of amazing projects, fun tutorials, practical guides, and clear reviews, it has everything you need to master Raspberry Pi!",
+      "image": "https://www.dbooks.org/img/books/191204742Xs.jpg",
+      "url": "https://www.dbooks.org/the-official-raspberry-pi-handbook-2023-191204742x/"
+    },
+    {
+      "id": "5685804586",
+      "title": "Pay for Play",
+      "subtitle": "How the Music Industry Works, Where the Money Goes, and Why",
+      "authors": "Larry Wayte",
+      "description": "Understanding the music industry as it exists today requires an understanding of how it developed over time. Today's music industry would most certainly not be the one anybody would design from scratch. It has many inefficiencies and quirks that reflect the economic pressures and musical concerns of bygone ages. The history of music is closely linked to the history of copyright law. This book explores how the law shaped music and the music industry. From church and court patronage in pre-19th Century Europe, to the effects of social media on music, this book explores the abiding influence of the law on music.",
+      "image": "https://www.dbooks.org/img/books/5685804586s.jpg",
+      "url": "https://www.dbooks.org/pay-for-play-5685804586/"
+    },
+    {
+      "id": "1642002275",
+      "title": "Azure Bot Service Succinctly",
+      "subtitle": "",
+      "authors": "Ed Freitas",
+      "description": "The power of artificial intelligence may be intimidating, but Microsoft provides the Bot Framework Composer to simplify the process of building conversational AI bots. Conversational bots are especially useful in serving different segments of a business, like customer support, sales, and administration. In this ebook, author Ed Freitas gets you up and running with your first conversational bot with minimal code and shows you how to publish it. From the foundation provided, you'll be able to start building your own bots to satisfy your unique needs.",
+      "image": "https://www.dbooks.org/img/books/1642002275s.jpg",
+      "url": "https://www.dbooks.org/azure-bot-service-succinctly-1642002275/"
+    },
+    {
+      "id": "1607826593",
+      "title": "Introductory Algebra",
+      "subtitle": "",
+      "authors": "Anne Gloag, Andrew Gloag, Melissa Kramer",
+      "description": "In order to represent real-life situations mathematically, we often use symbols to represent unknown quantities. We call these symbols variables. Each mathematical subject requires knowledge of manipulating expressions and equations to solve for a variable. Careers such as automobile accident investigators, quality control engineers, and insurance originators use equations to determine the value of variables. Real numbers are all around us. Introductory Algebra provides a comprehensive introduction to variables, functions, and linear equations and gives students a solid foundation in algebra.",
+      "image": "https://www.dbooks.org/img/books/1607826593s.jpg",
+      "url": "https://www.dbooks.org/introductory-algebra-1607826593/"
+    },
+    {
+      "id": "1098111389",
+      "title": "Managing Cloud Native Data on Kubernetes",
+      "subtitle": "Architecting Cloud Native Data Services Using Open Source Technology",
+      "authors": "Jeff Carpenter, Patrick McFadin",
+      "description": "Is Kubernetes ready for stateful workloads? This open-source system has become the primary platform for deploying and managing cloud-native applications. But because it was originally designed for stateless workloads, working with data on Kubernetes has been challenging. If you want to avoid the inefficiencies and duplicative costs of having separate infrastructure for applications and data, this practical guide can help. Using Kubernetes as your platform, you'll learn open-source technologies that are designed and built for the cloud. Authors Jeff Carpenter and Patrick McFadin provide case studies to help you explore new use cases and avoid the pitfalls others have faced. You'll get an insider's view of what's coming from innovators who are creating next-generation architectures and infrastructure.",
+      "image": "https://www.dbooks.org/img/books/1098111389s.jpg",
+      "url": "https://www.dbooks.org/managing-cloud-native-data-on-kubernetes-1098111389/"
+    },
+    {
+      "id": "1912047446",
+      "title": "An Introduction to C & GUI Programming",
+      "subtitle": "",
+      "authors": "Simon Long",
+      "description": "Freshly updated for GTK3, the 2nd edition of An Introduction to C & GUI Programming will teach you all you need to know to write simple programs in C and start creating GUIs, even if you're an absolute beginner. The first half of the book is an introduction to C and covers the basics of writing simple command-line programs. The second half shows how to use the GTK user interface toolkit with C to create feature-rich GUI applications that can be run on the desktop.",
+      "image": "https://www.dbooks.org/img/books/1912047446s.jpg",
+      "url": "https://www.dbooks.org/an-introduction-to-c-gui-programming-1912047446/"
+    },
+    {
+      "id": "1711470546",
+      "title": "Contemporary Mathematics",
+      "subtitle": "",
+      "authors": "Donna Kirk",
+      "description": "Contemporary Mathematics is designed to meet the scope and sequence requirements for a liberal arts mathematics course. This resource provides stand-alone sections with a focus on showing relevance in the features as well as the examples, exercises, and exposition. Contemporary Mathematics integrates technology applications, projects, and highlights a diverse group of contributors to mathematics, statistics, and related fields.",
+      "image": "https://www.dbooks.org/img/books/1711470546s.jpg",
+      "url": "https://www.dbooks.org/contemporary-mathematics-1711470546/"
+    },
+    {
+      "id": "1805110195",
+      "title": "The Last Man Who Knew Everything",
+      "subtitle": "Thomas Young",
+      "authors": "Andrew Robinson",
+      "description": "This book is an introduction to the language of systems biology, which is spoken among many disciplines, from biology to engineering. Authors Thomas Sauter and Marco Albrecht draw on a multidisciplinary background and evidence-based learning to facilitate the understanding of biochemical networks, metabolic modeling, and system dynamics. Their pedagogic approach briefly highlights core ideas of concepts in a broader interdisciplinary framework to guide a more effective deep dive thereafter. The learning journey starts with the purity of mathematical concepts, reveals its power to connect biological entities in structure and time, and finally introduces physics concepts to tightly align abstraction with reality.",
+      "image": "https://www.dbooks.org/img/books/1805110195s.jpg",
+      "url": "https://www.dbooks.org/the-last-man-who-knew-everything-1805110195/"
+    },
+    {
+      "id": "5685527822",
+      "title": "HackSpace Magazine: Issue 65",
+      "subtitle": "April 2023",
+      "authors": "HackSpace Team",
+      "description": "With enough inspiration, the world is your playground that's why this issue we're bringing you 16 of the best DIY toys and games to keep boredom at bay. Get started with surface mount soldering, make Islamic-inspired geometric LED patterns, build an aeroplane powered by the super-duper supercapacitor, and drool over the finest 3D printed guitar we've ever seen.",
+      "image": "https://www.dbooks.org/img/books/5685527822s.jpg",
+      "url": "https://www.dbooks.org/hackspace-magazine-issue-65-5685527822/"
+    },
+    {
+      "id": "5685535457",
+      "title": "Intro to Social Media",
+      "subtitle": "",
+      "authors": "Cheryl Lawson",
+      "description": "This book is aimed at managers, business owners, marketing managers, and aspiring social media marketing interns and managers. I will assume that, however accomplished in your own field - baker, developer, teacher, and that even as successful business owners, you approach the topic of social media marketing as a beginner. Even if you are an avid personal user of social networks, we will treat this book as a guided tour of social media for marketing purposes. Like many of my Generation X peers, I began using forums and chat rooms in the early 1990s and have watched social networks come and go (AOL and Yahoo chat rooms, Friendster, Myspace) - To those not inclined to spend countless hours online over the past couple of decades, it may seem as if things change too often.",
+      "image": "https://www.dbooks.org/img/books/5685535457s.jpg",
+      "url": "https://www.dbooks.org/intro-to-social-media-5685535457/"
+    },
+    {
+      "id": "5679752518",
+      "title": "HackSpace magazine: Issue 64",
+      "subtitle": "March 2023",
+      "authors": "HackSpace Team",
+      "description": "Bodging electrical components together on a breadboard is all very well, but when it comes to making a circuit permanent, you have to learn to solder. We've rounded up the best wizarding wands to give you this magical maker power. Vandalism done properly, a robot that can climb stairs, air-powered rocketry, and use a laser cutter to make solid wood wobbly.",
+      "image": "https://www.dbooks.org/img/books/5679752518s.jpg",
+      "url": "https://www.dbooks.org/hackspace-magazine-issue-64-5679752518/"
+    },
+    {
+      "id": "5679742652",
+      "title": "Introduction to Mechanical Engineering Design",
+      "subtitle": "",
+      "authors": "Jacqulyn A. Baughman",
+      "description": "A collection of readings and exercises aligned with the course, ME 270, Introduction to Mechanical Engineering Design, at Iowa State University. This course provides an overview of mechanical engineering design with applications to thermal and mechanical systems and an introduction to current design practices used in industry. As part of the course design, learners will complete a semester-long team project focused on addressing societal needs.",
+      "image": "https://www.dbooks.org/img/books/5679742652s.jpg",
+      "url": "https://www.dbooks.org/introduction-to-mechanical-engineering-design-5679742652/"
+    },
+    {
+      "id": "1642002305",
+      "title": "Svelte Succinctly",
+      "subtitle": "",
+      "authors": "Ed Freitas",
+      "description": "Svelte departs from the virtual DOM approach by compiling the code you write into native-browser JavaScript when you build your application. The result is minimal and highly optimized pure JavaScript that the browser executes with no heavy runtime. In Svelte Succinctly, Ed Freitas will show readers how to install Svelte and give them a condensed overview of how to build an app with Svelte using SvelteKit.",
+      "image": "https://www.dbooks.org/img/books/1642002305s.jpg",
+      "url": "https://www.dbooks.org/svelte-succinctly-1642002305/"
+    },
+    {
+      "id": "1800644124",
+      "title": "Introduction to Systems Biology",
+      "subtitle": "Workbook for Flipped-classroom Teaching",
+      "authors": "Thomas Sauter, Marco Albrecht",
+      "description": "This book is an introduction to the language of systems biology, which is spoken among many disciplines, from biology to engineering. Authors Thomas Sauter and Marco Albrecht draw on a multidisciplinary background and evidence-based learning to facilitate the understanding of biochemical networks, metabolic modeling, and system dynamics. Their pedagogic approach briefly highlights core ideas of concepts in a broader interdisciplinary framework to guide a more effective deep dive thereafter. The learning journey starts with the purity of mathematical concepts, reveals its power to connect biological entities in structure and time, and finally introduces physics concepts to tightly align abstraction with reality.",
+      "image": "https://www.dbooks.org/img/books/1800644124s.jpg",
+      "url": "https://www.dbooks.org/introduction-to-systems-biology-1800644124/"
+    },
+    {
+      "id": "111954601X",
+      "title": "Blockchain For Dummies",
+      "subtitle": "",
+      "authors": "Manav Gupta",
+      "description": "Blockchain For Dummies, 2nd IBM Limited Edition,equips you with an understanding of what blockchain is, how it works, and how it can enhance your business and the industry in which it operates. You learn the fundamentals of blockchain and how this technology revolutionizes transactions and business networks. You also discover the important difference between blockchain and blockchain for business and what makes blockchain an ideal solution for streamlining business networks. You find out about Hyperledger, a Linux Foundation project, designed to help advance technology and thought leadership of cross-industry blockchain technologies. You learn about Hyperledger Fabric, an open-source framework, and the instrumental role it plays in developing a blockchain for business. Finally, you find out everything you need to spin up a blockchain network today.",
+      "image": "https://www.dbooks.org/img/books/111954601Xs.jpg",
+      "url": "https://www.dbooks.org/blockchain-for-dummies-111954601x/"
+    },
+    {
+      "id": "1642002283",
+      "title": "ASP.NET Core APIs Succinctly",
+      "subtitle": "",
+      "authors": "Dirk Strauss",
+      "description": "APIs are such a critical part of software that \"API-first\" has become a popular approach to development, one where the API is designed before the app itself is written. Without a well-designed API, your app is isolated from the greater app ecosystem. In ASP.NET Core APIs Succinctly, author Dirk Strauss guides you through designing your own REST API, using it to return and modify data, and versioning it as you continue to develop it.",
+      "image": "https://www.dbooks.org/img/books/1642002283s.jpg",
+      "url": "https://www.dbooks.org/aspnet-core-apis-succinctly-1642002283/"
+    },
+    {
+      "id": "9463666656",
+      "title": "Numerical Methods for Ordinary Differential Equations",
+      "subtitle": "",
+      "authors": "Kees Vuik, Fred Vermolen, Martin van Gijzen",
+      "description": "In this book we discuss several numerical methods for solving ordinary differential equations. We emphasize the aspects that play an important role in practical problems. We conﬁne ourselves to ordinary differential equations with the exception of the last chapter in which we discuss the heat equation, a parabolic partial differential equation. The techniques discussed in the intro-ductory chapters, for instance interpolation, numerical quadrature and the solution to nonlinear equations, may also be used outside the context of differential equations. They have been in-cluded to make the book self-contained as far as the numerical aspects are concerned. Chapters, sections and exercises marked with a * are not part of the Delft Institutional Package.",
+      "image": "https://www.dbooks.org/img/books/9463666656s.jpg",
+      "url": "https://www.dbooks.org/numerical-methods-for-ordinary-differential-equations-9463666656/"
+    },
+    {
+      "id": "1492095176",
+      "title": "A Practical Guide to Cloud Migration",
+      "subtitle": "Essays on Organizational Transformation from Google Practitioners",
+      "authors": "Kieran Broadfoot",
+      "description": "Why do enterprises feel daunted when undertaking a large-scale cloud transformation? A move to the cloud usually offers substantial rewards. Once companies make this transition, they unlock new business opportunities that fundamentally change the way they work. With this report, members of the Google team will show you how to navigate the cultural and technological transformation required to migrate to the cloud.",
+      "image": "https://www.dbooks.org/img/books/1492095176s.jpg",
+      "url": "https://www.dbooks.org/a-practical-guide-to-cloud-migration-1492095176/"
+    },
+    {
+      "id": "1800648723",
+      "title": "The European Experience",
+      "subtitle": "A Multi-Perspective History of Modern Europe, 1500-2000",
+      "authors": "Jan Hansen, Jochen Hung, Jaroslav Ira, Judit Klement, Sylvain Lesage, Juan Luis Simal, Andrew Tompkins",
+      "description": "The European Experience brings together the expertise of nearly a hundred historians from eight European universities to internationalise and diversify the study of modern European history, exploring a grand sweep of time from 1500 to 2000. Offering a valuable corrective to the Anglocentric narratives of previous English-language textbooks, scholars from all over Europe have pooled their knowledge on comparative themes such as identities, cultural encounters, power and citizenship, and economic development to reflect the complexity and heterogeneous nature of the European experience. Rather than another grand narrative, the international author teams offer a multifaceted and rich perspective on the history of the continent of the past 500 years. Each major theme is dissected through three chronological sub-chapters, revealing how major social, political and historical trends manifested themselves in different European settings during the early modern (1500-1800), modern (1800-1900) and contemporary period (1900-2000).",
+      "image": "https://www.dbooks.org/img/books/1800648723s.jpg",
+      "url": "https://www.dbooks.org/the-european-experience-1800648723/"
+    },
+    {
+      "id": "5676984863",
+      "title": "HackSpace Magazine: Issue 63",
+      "subtitle": "February 2023",
+      "authors": "HackSpace Team",
+      "description": "Flying machines: humans have always dreamed about flight, but with our puny arms and lack of feathers it's something we've struggled with. No more! Join us as we explore the best, cleverest and most innovative home-made flying machines. Icarus would have been proud! Behold the world's first articulated print-in-place chocolate fish, When 3D goes so wrong, it's actually kind of right, Build your own trombone-style games controller, Learn to solder and loads more!",
+      "image": "https://www.dbooks.org/img/books/5676984863s.jpg",
+      "url": "https://www.dbooks.org/hackspace-magazine-issue-63-5676984863/"
+    }
+  ]
+}
